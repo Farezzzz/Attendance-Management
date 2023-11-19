@@ -1,0 +1,14 @@
+# folder
+/writable/cache/*
+/writable/debugbar/*
+/writable/logs/*
+/writable/session/*
+/writable/uploads/*
+/img/clockin/*
+/img/clockout/*
+
+# misc
+.DS_Store
+.env
+
+!/**/.gitkeep
